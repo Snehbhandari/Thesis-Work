@@ -1,6 +1,6 @@
 ## Thesis Project ##
-## Interpretability of Neural Networks ##
+Interpretability of Neural Networks ##
 
-# Model Used: RNN
-# Data Used: Stock Price Data
+Model Used: RNN
+Data Used: Stock Price Data
 
