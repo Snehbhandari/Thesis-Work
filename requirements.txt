@@ -1,3 +1,10 @@
 pandas
 numpy
+yfinance
+matplotlib
+statistics
+sklearn
+tensorflow
+networkx
+community
 -e .
