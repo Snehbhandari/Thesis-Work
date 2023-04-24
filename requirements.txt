@@ -1,11 +1,3 @@
 pandas
 numpy
-matplotlib
-yfinance
-sklearn
-tensorflow
-seaborn
-networkx
-statistics
-community
 -e .
