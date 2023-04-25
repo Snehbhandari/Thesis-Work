@@ -1,0 +1,154 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "networkx",
+    "numpy",
+    "python"
+  ],
+  "extracted_package_dir": "D:\\Anaconda\\anaconda\\pkgs\\python-louvain-0.15-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Scripts/community",
+    "Lib/site-packages/community/__init__.py",
+    "Lib/site-packages/community/community_louvain.py",
+    "Lib/site-packages/community/community_status.py",
+    "Lib/site-packages/python_louvain-0.15.dist-info/INSTALLER",
+    "Lib/site-packages/python_louvain-0.15.dist-info/LICENSE",
+    "Lib/site-packages/python_louvain-0.15.dist-info/METADATA",
+    "Lib/site-packages/python_louvain-0.15.dist-info/RECORD",
+    "Lib/site-packages/python_louvain-0.15.dist-info/REQUESTED",
+    "Lib/site-packages/python_louvain-0.15.dist-info/WHEEL",
+    "Lib/site-packages/python_louvain-0.15.dist-info/direct_url.json",
+    "Lib/site-packages/python_louvain-0.15.dist-info/top_level.txt",
+    ".nonadmin",
+    "Lib/site-packages/community/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/community/__pycache__/community_louvain.cpython-39.pyc",
+    "Lib/site-packages/community/__pycache__/community_status.cpython-39.pyc"
+  ],
+  "fn": "python-louvain-0.15-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "fb4ecaa85f4e31cd77bce53f278a9a85",
+  "license": "None",
+  "link": {
+    "source": "D:\\Anaconda\\anaconda\\pkgs\\python-louvain-0.15-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "321d0914e16f1008c39ebe720660faa5",
+  "name": "python-louvain",
+  "noarch": "python",
+  "package_tarball_full_path": "D:\\Anaconda\\anaconda\\pkgs\\python-louvain-0.15-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "python-scripts/community",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/tmp/build/80754af9/python-louvain_1612304551119/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "c7abde13eeb227746d0dbe43b50ecf62a59e08e57cc325b360e03446d8302c46",
+        "sha256_in_prefix": "1369ddb26d83d7add61704f22ff936527252bb51d4ca875c22d3665b5d831822",
+        "size_in_bytes": 1125
+      },
+      {
+        "_path": "site-packages/community/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c9be9742f41015b7f0b1f705e9191dd9ae5d96a5947207bfcc6dd9e4f86119d9",
+        "sha256_in_prefix": "c9be9742f41015b7f0b1f705e9191dd9ae5d96a5947207bfcc6dd9e4f86119d9",
+        "size_in_bytes": 508
+      },
+      {
+        "_path": "site-packages/community/community_louvain.py",
+        "path_type": "hardlink",
+        "sha256": "96066188d4b18d974861b54a81c614dd4babf9c5d51ad5b5637dbb3cbec587e3",
+        "sha256_in_prefix": "96066188d4b18d974861b54a81c614dd4babf9c5d51ad5b5637dbb3cbec587e3",
+        "size_in_bytes": 18720
+      },
+      {
+        "_path": "site-packages/community/community_status.py",
+        "path_type": "hardlink",
+        "sha256": "b191f1b65d890d3eb1a8866dbfd99ab5ca0076de5f47cc2f553d8d32ac7fea52",
+        "sha256_in_prefix": "b191f1b65d890d3eb1a8866dbfd99ab5ca0076de5f47cc2f553d8d32ac7fea52",
+        "size_in_bytes": 2957
+      },
+      {
+        "_path": "site-packages/python_louvain-0.15.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/python_louvain-0.15.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "dc5a43190fcd68c010cac97222402ea7df2f8a34c2340bb6edddcffc3ad8b1d0",
+        "sha256_in_prefix": "dc5a43190fcd68c010cac97222402ea7df2f8a34c2340bb6edddcffc3ad8b1d0",
+        "size_in_bytes": 1520
+      },
+      {
+        "_path": "site-packages/python_louvain-0.15.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "445a40777267695252bd07a681b572f11388163bd3b5392c22ce06260e0c2a56",
+        "sha256_in_prefix": "445a40777267695252bd07a681b572f11388163bd3b5392c22ce06260e0c2a56",
+        "size_in_bytes": 537
+      },
+      {
+        "_path": "site-packages/python_louvain-0.15.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "10733ca639160671f9446d8518208f1a8e940054b0e54ce5a74b10df7d3ad1b9",
+        "sha256_in_prefix": "10733ca639160671f9446d8518208f1a8e940054b0e54ce5a74b10df7d3ad1b9",
+        "size_in_bytes": 1206
+      },
+      {
+        "_path": "site-packages/python_louvain-0.15.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/python_louvain-0.15.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "sha256_in_prefix": "3aa464174798e461ecb0ca2b16395b4c8ab4ef6be91e917ad1f21003a952f710",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/python_louvain-0.15.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "169210a42ee3c0efc81e00421d37167c59de95d00661227d85a6aa6b88ba9e42",
+        "sha256_in_prefix": "169210a42ee3c0efc81e00421d37167c59de95d00661227d85a6aa6b88ba9e42",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "site-packages/python_louvain-0.15.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "53c5c5af1dbc890b7fc8c09a72c167e33307a5dadefdb27552b3e32f0195ed9f",
+        "sha256_in_prefix": "53c5c5af1dbc890b7fc8c09a72c167e33307a5dadefdb27552b3e32f0195ed9f",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "Lib/site-packages/community/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/community/__pycache__/community_louvain.cpython-39.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/community/__pycache__/community_status.cpython-39.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "python-louvain",
+  "sha256": "4f55de8666bec224314bf4dd5d32bb6dbedb3b0e3e9c00b0465c1bc0010960ba",
+  "size": 12825,
+  "subdir": "noarch",
+  "timestamp": 1612304594863,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/python-louvain-0.15-pyhd3eb1b0_0.conda",
+  "version": "0.15"
+}
