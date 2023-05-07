@@ -2,5 +2,5 @@
 Interpretability of Neural Networks 
 
 Model Used: RNN
-Data Used: Stock Price Data
+\nData Used: Stock Price Data
 
